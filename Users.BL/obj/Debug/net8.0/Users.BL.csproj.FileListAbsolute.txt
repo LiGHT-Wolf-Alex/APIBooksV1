@@ -1,0 +1,17 @@
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\bin\Debug\net8.0\Users.BL.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\bin\Debug\net8.0\Users.BL.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\bin\Debug\net8.0\Users.BL.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\bin\Debug\net8.0\Common.Domain.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\bin\Debug\net8.0\Common.Repositories.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\bin\Debug\net8.0\Common.Domain.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\bin\Debug\net8.0\Common.Repositories.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.csproj.Up2Date
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\refint\Users.BL.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\Users.BL.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Program\ASP.Net\API\Users.BL\obj\Debug\net8.0\ref\Users.BL.dll
